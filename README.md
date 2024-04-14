@@ -4,7 +4,7 @@
 
 ##
 
-[![gabinaiare GitHub stats](https://github-readme-stats.vercel.app/api?username=gabinaiare&show_icons=true&theme=midnight-purple)
+![gabinaiare GitHub stats](https://github-readme-stats.vercel.app/api?username=gabinaiare&show_icons=true&theme=midnight-purple)
 
 ##
 
