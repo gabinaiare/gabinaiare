@@ -19,6 +19,8 @@
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinaiare&layout=compact&theme=midnight-purple)
+
 ##
 
 <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="GIF" width="500">
