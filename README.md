@@ -1,6 +1,6 @@
 ## ☪️ Oii! Eu sou Gabrielle Naiare!
 
-- Estudante de BTI na Universidade Federal do Semi-Árido (UFERSA) Campus Pau dos Ferros
+- Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) Campus Pau dos Ferros
 
 ##
 
