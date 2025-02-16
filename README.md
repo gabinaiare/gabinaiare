@@ -1,6 +1,8 @@
-## ☪️ Oii! Eu sou Gabrielle Naiare!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6248e1&height=150&section=header"/>
 
-- Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) Campus Pau dos Ferros
+<h1>☪️ Hi, my name is Gabrielle Naiare!</h1>
+
+- IT student at the Federal Rural University of the Semi-Arid (UFERSA), Pau dos Ferros Campus.
 
 ##
 
@@ -16,13 +18,6 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-##
-
-### 📧 Quer entrar em contato?
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielle_naiare/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnpo6224@gmail.com)
 
 ##
 
