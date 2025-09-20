@@ -11,12 +11,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinaiare&layout=compact&theme=midnight-purple&card_width=400" alt="Top Langs">
 </div>
 
-##
+## Languages
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C-Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C-Language" height="80" width="80" src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000">
+  <img align="center" alt="HTML5" height="80" width="80" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000">
+  <img align="center" alt="CSS3" height="80" width="80" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000">
+  <img align="center" alt="Java" height="80" width="80" src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000">
+</div>
+
+## Tools
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="VsCode" height="80" width="80" src="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000">
+  <img align="center" alt="Git" height="80" width="80" src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000">
+  <img align="center" alt="Github" height="80" width="80" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000">
 </div>
 
 ##
